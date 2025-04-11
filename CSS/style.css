@@ -1,0 +1,51 @@
+
+body{
+    margin: 0px;
+}
+header {
+    background-color: rgb(255, 255, 255);
+    width: auto ;
+    height: 200px;
+    border: 50px; 
+}
+h1 {
+    text-align: center;
+    font-size: 100px;
+    font-family: 'Fleur De Leah', 'Brush Script MT', cursive; 
+    color: rgb(0, 0, 0);
+}
+
+.navbar{
+    
+    background-color: rgb(8.5, 8.5, 8.5);
+}
+.nav{
+    text-decoration: none;
+    background-color: rgb(8.5, 8.5, 8.5);
+}
+
+
+.navbar a{
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    padding: 15px;
+    
+    
+    
+}
+.navbar a:hover{
+    background-color: hsl(0, 0%, 10%);
+}
+footer{
+    display: block;
+    background-color: black;
+    padding: 15px;
+    text-align: center;
+    color: white;
+}
+h3{
+    padding-left: 200px;
+}
+ul{
+    text-decoration: none;
+}
