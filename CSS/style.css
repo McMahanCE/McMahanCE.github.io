@@ -10,8 +10,7 @@ header {
 }
 h1 {
     text-align: center;
-    width: auto;
-    font-size: auto;
+    font-size: 200px;
     font-family: 'Fleur De Leah', 'Brush Script MT', cursive; 
     color: rgb(0, 0, 0);
 }
