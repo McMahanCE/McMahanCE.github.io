@@ -8,10 +8,10 @@ header {
     height: 200px;
     border: 50px; 
 }
-.fs-1 {
+h1 {
     text-align: center;
     font-size: 100px;
-    font-style: 'Fleur De Leah', 'Brush Script MT', cursive; 
+    font-family: 'Fleur De Leah', 'Brush Script MT', cursive; 
     color: rgb(0, 0, 0);
 }
 
