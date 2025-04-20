@@ -5,6 +5,7 @@ body{
 header {
     background-color: rgb(255, 255, 255);
     width: auto ;
+    font-size: 100px;
     height: 200px;
     border: 50px; 
 }
