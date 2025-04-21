@@ -3,30 +3,33 @@ body{
     margin: 0px;
 }
 header {
-    @import url('https://fonts.googleapis.com/css2?family=Fleur+De+Leah&display=swap');
+ 
     background-color: rgb(255, 255, 255);
     width: auto ;
     height: 175px;
     border: 50px; 
 }
-@media screen (max-width: 1440px) {
+@media  (max-width: 1440px) {
     .fs-1 {
+        @import url('https://fonts.googleapis.com/css2?family=Fleur+De+Leah&display=swap');
         text-align: center;
         font-size: 100px;
         font-family: 'Fleur De Leah', 'Brush Script MT', cursive; 
         color: rgb(0, 0, 0);
     }
 }    
-@media screen (max-width: 1024px) {
+@media  (max-width: 1024px) {
     .fs-1 {
+        @import url('https://fonts.googleapis.com/css2?family=Fleur+De+Leah&display=swap');
         text-align: center;
         font-size: 100px;
         font-family: 'Fleur De Leah', 'Brush Script MT', cursive; 
         color: rgb(0, 0, 0);
     }
 }
-@media screen (max-width: 600px) {
+@media (max-width: 600px) {
     .fs-1 {
+        @import url('https://fonts.googleapis.com/css2?family=Fleur+De+Leah&display=swap');
         text-align: center;
         font-size: 50px;
         font-family: 'Fleur De Leah', 'Brush Script MT', cursive; 
