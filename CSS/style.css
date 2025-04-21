@@ -8,7 +8,7 @@ header {
     height: 175px;
     border: 50px; 
 }
-.fs-1 {
+h1 {
     @import url('https://fonts.googleapis.com/css2?family=Fleur+De+Leah&display=swap');
     font-family: 'Fleur De Leah', 'Brush Script MT', cursive; 
     font-size: 100px;
