@@ -10,7 +10,7 @@ header {
     border: 50px; 
 }
 @media  (max-width: 1440px) {
-    .fs-1 {
+    h1{
         @import url('https://fonts.googleapis.com/css2?family=Fleur+De+Leah&display=swap');
         text-align: center;
         font-size: 100px;
@@ -19,7 +19,7 @@ header {
     }
 }    
 @media  (max-width: 1024px) {
-    .fs-1 {
+    h1 {
         @import url('https://fonts.googleapis.com/css2?family=Fleur+De+Leah&display=swap');
         text-align: center;
         font-size: 100px;
@@ -28,7 +28,7 @@ header {
     }
 }
 @media (max-width: 600px) {
-    .fs-1 {
+    h1 {
         @import url('https://fonts.googleapis.com/css2?family=Fleur+De+Leah&display=swap');
         text-align: center;
         font-size: 50px;
